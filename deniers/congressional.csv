@@ -1,0 +1,383 @@
+Name,Party,Position,Jurisdiction,OpenFEC ID,District,Incumbent,Status,Race Active,Election Year,Term Start,Term End
+Cynthia Lummis,Republican,Senate,Wyoming,S0WY00137,,false,Won General,false,2020,2021,2027
+Cindy Hyde-Smith,Republican,Senate,Mississippi,S8MS00261,,false,Won General,false,2020,2021,2027
+Josh Hawley,Republican,Senate,Missouri,S8MO00160,,false,Won General,false,2018,2019,2025
+Markwayne Mullin,Republican,Senate,Oklahoma,S2OK00186,,false,Won General,false,2020,2021,2027
+Roger Marshall,Republican,Senate,Kansas,S0KS00315,,false,Won General,false,2020,2021,2027
+Tommy Tuberville,Republican,Senate,Alabama,S0AL00230,,false,Won General,false,2020,2021,2027
+Rick Scott,Republican,Senate,Florida,S8FL00273,,false,Won General,false,2018,2019,2025
+Ted Cruz,Republican,Senate,Texas,S2TX00312,,false,Won General,false,2018,2019,2025
+Ted Budd,Republican,Senate,North Carolina,S2NC00505,,true,Won General,false,2022,2023,2029
+John Kennedy,Republican,Senate,Louisiana,S4LA00065,,true,Won General,false,2022,2023,2029
+Harriet Hageman,Republican,House,Wyoming,H2WY00166,,false,Won General,false,2022,2023,2025
+Marsha Blackburn,Republican,Senate,Tennessee,S8TN00337,,false,Won General,false,2018,2019,2025
+Mike Braun,Republican,Senate,Indiana,S8IN00171,,false,Won General,false,2018,2019,2025
+Steve Daines,Republican,Senate,Montana,S2MT00096,,false,Won General,false,2020,2021,2027
+Rand Paul,Republican,Senate,Kentucky,S0KY00156,,true,Won General,false,2022,2023,2029
+James Lankford,Republican,Senate,Oklahoma,S4OK00232,,false,Won General,false,2022,2023,2029
+Bill Hagerty,Republican,Senate,Tennessee,S0TN00169,,false,Won General,false,2020,2021,2027
+Eric Schmitt,Republican,Senate,Missouri,S2MO00544,,false,Won General,false,2022,2023,2029
+Katie Britt,Republican,Senate,Alabama,S2AL00145,,false,Won General,false,2022,2023,2029
+Ron Johnson,Republican,Senate,Wisconsin,S0WI00197,,true,Won General,false,2022,2023,2029
+J.D. Vance,Republican,Senate,Ohio,S2OH00436,,false,Won General,false,2022,2023,2025
+Mark Coester,Republican,House,Vermont,H4VT01056,,false,Lost General,false,2024,2025,2027
+Josh Hawley,Republican,Senate,Missouri,S8MO00160,,true,Won General,false,2024,2025,2031
+Harriet Hageman,Republican,House,Wyoming,H2WY00166,,true,Won General,false,2024,2025,2027
+Kari Lake,Republican,Senate,Arizona,S4AZ00220,,false,Lost General,false,2024,2025,2031
+Rick Scott,Republican,Senate,Florida,S8FL00273,,true,Won General,false,2024,2025,2031
+Jim Banks,Republican,Senate,Indiana,S4IN00196,,false,Won General,false,2024,2025,2031
+Marsha Blackburn,Republican,Senate,Tennessee,S8TN00337,,true,Won General,false,2024,2025,2031
+Bernie Moreno,Republican,Senate,Ohio,S4OH00192,,false,Won General,false,2024,2025,2031
+Alex Mooney,Republican,Senate,West Virginia,S4WV00324,,false,Lost Primary,false,2024,2025,2031
+Ted Cruz,Republican,Senate,Texas,S2TX00312,,true,Won General,false,2024,2025,2031
+Carol Miller,Republican,House,West Virginia,H8WV03097,1,true,Won General,false,2022,2023,2025
+Steve Scalise,Republican,House,Louisiana,H0LA01087,1,true,Won General,false,2022,2023,2025
+Jack Bergman,Republican,House,Michigan,H6MI01226,1,true,Won General,false,2022,2023,2025
+Jerry Carl,Republican,House,Alabama,H0AL01055,1,true,Won General,false,2022,2023,2025
+Eric Crawford,Republican,House,Arkansas,H0AR01083,1,true,Won General,false,2022,2023,2025
+Kevin Hern,Republican,House,Oklahoma,H8OK01157,1,true,Won General,false,2022,2023,2025
+Russ Fulcher,Republican,House,Idaho,H8ID01124,1,true,Won General,false,2022,2023,2025
+Matt Gaetz,Republican,House,Florida,H6FL01119,1,true,Won General,false,2022,2023,2024
+Robert Wittman,Republican,House,Virginia,H8VA01147,1,true,Won General,false,2022,2023,2025
+Andy Harris,Republican,House,Maryland,H8MD01094,1,true,Won General,false,2022,2023,2025
+David Schweikert,Republican,House,Arizona,H4AZ06045,1,true,Won General,false,2022,2023,2025
+Doug LaMalfa,Republican,House,California,H2CA02142,1,true,Won General,false,2022,2023,2025
+Tracey Mann,Republican,House,Kansas,H0KS01123,1,true,Won General,false,2022,2023,2025
+Trent Kelly,Republican,House,Mississippi,H6MS01131,1,true,Won General,false,2022,2023,2025
+Buddy Carter,Republican,House,Georgia,H4GA01039,1,true,Won General,false,2022,2023,2025
+Diana Harshbarger,Republican,House,Tennessee,H0TN01118,1,true,Won General,false,2022,2023,2025
+Ryan Zinke,Republican,House,Montana,H4MT01041,1,false,Won General,false,2022,2023,2025
+Eric Crawford,Republican,House,Arkansas,H0AR01083,1,true,Won General,false,2024,2025,2027
+David Schweikert,Republican,House,Arizona,H4AZ06045,1,true,Won General,false,2024,2025,2027
+Jerry Carl,Republican,House,Alabama,H0AL01055,1,true,Lost Primary,false,2024,2025,2027
+Barry Moore,Republican,House,Alabama,H8AL02171,1,false,Won General,false,2024,2025,2027
+Doug LaMalfa,Republican,House,California,H2CA02142,1,true,Won General,false,2024,2025,2027
+Matt Gaetz,Republican,House,Florida,H6FL01119,1,true,Won General,false,2024,2025,2025
+Buddy Carter,Republican,House,Georgia,H4GA01039,1,true,Won General,false,2024,2025,2027
+Marcus Lewis,Republican,House,Illinois,H8IL02104,1,false,Lost General,false,2024,2025,2027
+Russ Fulcher,Republican,House,Idaho,H8ID01124,1,true,Won General,false,2024,2025,2027
+Steve Scalise,Republican,House,Louisiana,H0LA01087,1,true,Won General,false,2024,2025,2027
+Randall Arrington,Republican,House,Louisiana,,1,false,Lost General,false,2024,2025,2027
+Tracey Mann,Republican,House,Kansas,H0KS01123,1,true,Won General,false,2024,2025,2027
+Andy Harris,Republican,House,Maryland,H8MD01094,1,true,Won General,false,2024,2025,2027
+Jack Bergman,Republican,House,Michigan,H6MI01226,1,true,Won General,false,2024,2025,2027
+Trent Kelly,Republican,House,Mississippi,H6MS01131,1,true,Won General,false,2024,2025,2027
+Ryan Zinke,Republican,House,Montana,H4MT01041,1,true,Won General,false,2024,2025,2027
+Kevin Hern,Republican,House,Oklahoma,H8OK01157,1,true,Won General,false,2024,2025,2027
+Bob Todd,Republican,House,Oregon,H4OR01147,1,false,Lost General,false,2024,2025,2027
+Diana Harshbarger,Republican,House,Tennessee,H0TN01118,1,true,Won General,false,2024,2025,2027
+Robert Wittman,Republican,House,Virginia,H8VA01147,1,true,Won General,false,2024,2025,2027
+Carol Miller,Republican,House,West Virginia,H8WV03097,1,true,Won General,false,2024,2025,2027
+Neal Dunn,Republican,House,Florida,H6FL02208,2,true,Won General,false,2022,2023,2025
+Matt Rosendale,Republican,House,Montana,H4MT00050,2,true,Won General,false,2022,2023,2025
+Jake LaTurner,Republican,House,Kansas,H0KS02188,2,true,Won General,false,2022,2023,2025
+Tim Burchett,Republican,House,Tennessee,H8TN02119,2,true,Won General,false,2022,2023,2025
+Alex Mooney,Republican,House,West Virginia,S4WV00324,2,true,Won General,false,2022,2023,2025
+Mike Simpson,Republican,House,Idaho,H8ID02064,2,true,Won General,false,2022,2023,2025
+Dan Crenshaw,Republican,House,Texas,H8TX02166,2,true,Won General,false,2022,2023,2025
+Joe Wilson,Republican,House,South Carolina,H2SC02059,2,true,Won General,false,2022,2023,2025
+Ann Wagner,Republican,House,Missouri,H2MO02102,2,true,Won General,false,2022,2023,2025
+Barry Moore,Republican,House,Alabama,H8AL02171,2,true,Won General,false,2022,2023,2025
+Jeff Van Drew,Republican,House,New Jersey,H8NJ02166,2,true,Won General,false,2022,2023,2025
+Brad Wenstrup,Republican,House,Ohio,H2OH02085,2,true,Won General,false,2022,2023,2025
+Cliff Bentz,Republican,House,Oregon,H0OR02127,2,true,Won General,false,2022,2023,2025
+John Moolenaar,Republican,House,Michigan,H4MI04126,2,true,Won General,false,2022,2023,2025
+Jen Kiggans,Republican,House,Virginia,H2VA02064,2,false,Won General,false,2022,2023,2025
+Eli Crane,Republican,House,Arizona,H2AZ01354,2,false,Won General,false,2022,2023,2025
+Eli Crane,Republican,House,Arizona,H2AZ01354,2,true,Won General,false,2024,2025,2027
+Neal Dunn,Republican,House,Florida,H6FL02208,2,true,Won General,false,2024,2025,2027
+Wayne Johnson,Republican,House,Georgia,H2GA02163,2,false,Lost General,false,2024,2025,2027
+Mike Simpson,Republican,House,Idaho,H8ID02064,2,true,Won General,false,2024,2025,2027
+Jake LaTurner,Republican,House,Kansas,H0KS02188,2,true,Dropped Out,false,2024,2025,2027
+John Moolenaar,Republican,House,Michigan,H4MI04126,2,true,Won General,false,2024,2025,2027
+Ann Wagner,Republican,House,Missouri,H2MO02102,2,true,Won General,false,2024,2025,2027
+Jeff Van Drew,Republican,House,New Jersey,H8NJ02166,2,true,Won General,false,2024,2025,2027
+Matt Rosendale,Republican,House,Montana,H4MT00050,2,true,Lost Primary,false,2024,2025,2027
+Yvette Herrell,Republican,House,New Mexico,H8NM02156,2,false,Lost General,false,2024,2025,2027
+Cliff Bentz,Republican,House,Oregon,H0OR02127,2,true,Won General,false,2024,2025,2027
+Joe Wilson,Republican,House,South Carolina,H2SC02059,2,true,Won General,false,2024,2025,2027
+Aaron Bashir,Republican,House,Pennsylvania,H4PA02069,2,false,Lost General,false,2024,2025,2027
+Tim Burchett,Republican,House,Tennessee,H8TN02119,2,true,Won General,false,2024,2025,2027
+Dan Crenshaw,Republican,House,Texas,H8TX02166,2,true,Won General,false,2024,2025,2027
+Jen Kiggans,Republican,House,Virginia,H2VA02064,2,true,Won General,false,2024,2025,2027
+Cody Hart,Republican,House,Washington,H0WA02221,2,false,Lost General,false,2024,2025,2027
+Blaine Luetkemeyer,Republican,House,Missouri,H8MO09153,3,true,Won General,false,2022,2023,2025
+Michael Guest,Republican,House,Mississippi,H8MS03125,3,true,Won General,false,2022,2023,2025
+Mike Rogers,Republican,House,Alabama,H2AL03032,3,true,Won General,false,2022,2023,2025
+Adrian Smith,Republican,House,Nebraska,H6NE03115,3,true,Won General,false,2022,2023,2025
+Chuck Fleischmann,Republican,House,Tennessee,H0TN03254,3,true,Won General,false,2022,2023,2025
+Frank Lucas,Republican,House,Oklahoma,H4OK06056,3,true,Won General,false,2022,2023,2025
+Jim Banks,Republican,House,Indiana,H6IN03229,3,true,Won General,false,2022,2023,2025
+Drew Ferguson,Republican,House,Georgia,H6GA03113,3,true,Won General,false,2022,2023,2025
+Greg Murphy,Republican,House,North Carolina,H0NC03172,3,true,Won General,false,2022,2023,2025
+Kat Cammack,Republican,House,Florida,H0FL03175,3,true,Won General,false,2022,2023,2025
+Clay Higgins,Republican,House,Louisiana,H6LA03148,3,true,Won General,false,2022,2023,2025
+Lauren Boebert,Republican,House,Colorado,H0CO03165,3,true,Won General,false,2022,2023,2025
+Jeff Duncan,Republican,House,South Carolina,H0SC03077,3,true,Won General,false,2022,2023,2025
+Derrick Van Orden,Republican,House,Wisconsin,H0WI03175,3,false,Won General,false,2022,2023,2025
+Keith Self,Republican,House,Texas,H2TX03290,3,false,Won General,false,2022,2023,2025
+Mike Rogers,Republican,House,Alabama,H2AL03032,3,true,Won General,false,2024,2025,2027
+Jeff Zink,Republican,House,Arizona,H2AZ07187,3,false,Lost General,false,2024,2025,2027
+Kat Cammack,Republican,House,Florida,H0FL03175,3,true,Won General,false,2024,2025,2027
+Clay Higgins,Republican,House,Louisiana,H6LA03148,3,true,Won General,false,2024,2025,2027
+John Booras,Republican,House,Illinois,H4IL03101,3,false,Lost General,false,2024,2025,2027
+Blaine Luetkemeyer,Republican,House,Missouri,H8MO09153,3,true,Dropped Out,false,2024,2025,2027
+Michael Guest,Republican,House,Mississippi,H8MS03125,3,true,Won General,false,2024,2025,2027
+Adrian Smith,Republican,House,Nebraska,H6NE03115,3,true,Won General,false,2024,2025,2027
+Greg Murphy,Republican,House,North Carolina,H0NC03172,3,true,Won General,false,2024,2025,2027
+Joanna Harbour,Republican,House,Oregon,H0OR03174,3,false,Lost General,false,2024,2025,2027
+Frank Lucas,Republican,House,Oklahoma,H4OK06056,3,true,Won General,false,2024,2025,2027
+Jeff Duncan,Republican,House,South Carolina,H0SC03077,3,true,Dropped Out,false,2024,2025,2027
+Chuck Fleischmann,Republican,House,Tennessee,H0TN03254,3,true,Won General,false,2024,2025,2027
+Keith Self,Republican,House,Texas,H2TX03290,3,true,Won General,false,2024,2025,2027
+Derrick Van Orden,Republican,House,Wisconsin,H0WI03175,3,true,Won General,false,2024,2025,2027
+Joe Kent,Republican,House,Washington,H2WA03100,3,false,Lost General,false,2024,2025,2027
+Ken Buck,Republican,House,Colorado,H4CO04090,4,true,Won General,false,2022,2023,2025
+William Timmons,Republican,House,South Carolina,H8SC04250,4,true,Won General,false,2022,2023,2025
+Mike Johnson,Republican,House,Louisiana,H6LA04138,4,true,Won General,false,2022,2023,2025
+Bill Huizenga,Republican,House,Michigan,H0MI02094,4,true,Won General,false,2022,2023,2025
+Dan Newhouse,Republican,House,Washington,H4WA04104,4,true,Won General,false,2022,2023,2025
+Tom Cole,Republican,House,Oklahoma,H2OK04055,4,true,Won General,false,2022,2023,2025
+Jim Jordan,Republican,House,Ohio,H6OH04082,4,true,Won General,false,2022,2023,2025
+Ron Estes,Republican,House,Kansas,H8KS04112,4,true,Won General,false,2022,2023,2025
+Burgess Owens,Republican,House,Utah,H0UT04076,4,true,Won General,false,2022,2023,2025
+Jim Baird,Republican,House,Indiana,H8IN04199,4,true,Won General,false,2022,2023,2025
+Pat Fallon,Republican,House,Texas,H0TX04219,4,true,Won General,false,2022,2023,2025
+Scott DesJarlais,Republican,House,Tennessee,H0TN04195,4,true,Won General,false,2022,2023,2025
+Bruce Westerman,Republican,House,Arkansas,H4AR04048,4,true,Won General,false,2022,2023,2025
+Robert Aderholt,Republican,House,Alabama,H6AL04098,4,true,Won General,false,2022,2023,2025
+Mark Alford,Republican,House,Missouri,H2MO04207,4,false,Won General,false,2022,2023,2025
+Robert Aderholt,Republican,House,Alabama,H6AL04098,4,true,Won General,false,2024,2025,2027
+Bruce Westerman,Republican,House,Arkansas,H4AR04048,4,true,Won General,false,2024,2025,2027
+Kelly Cooper,Republican,House,Arizona,H2AZ09191,4,false,Lost General,false,2024,2025,2027
+Lauren Boebert,Republican,House,Colorado,H0CO03165,4,false,Won General,false,2024,2025,2027
+Joshua Morott,Republican,House,Louisiana,H4LA04034,4,false,Lost General,false,2024,2025,2027
+Jim Baird,Republican,House,Indiana,H8IN04199,4,true,Won General,false,2024,2025,2027
+Ron Estes,Republican,House,Kansas,H8KS04112,4,true,Won General,false,2024,2025,2027
+Mike Johnson,Republican,House,Louisiana,H6LA04138,4,true,Won General,false,2024,2025,2027
+Bill Huizenga,Republican,House,Michigan,H0MI02094,4,true,Won General,false,2024,2025,2027
+Mark Alford,Republican,House,Missouri,H2MO04207,4,true,Won General,false,2024,2025,2027
+John Lee,Republican,House,Nevada,H4NV04116,4,false,Lost General,false,2024,2025,2027
+Jim Jordan,Republican,House,Ohio,H6OH04082,4,true,Won General,false,2024,2025,2027
+Tom Cole,Republican,House,Oklahoma,H2OK04055,4,true,Won General,false,2024,2025,2027
+William Timmons,Republican,House,South Carolina,H8SC04250,4,true,Won General,false,2024,2025,2027
+Scott DesJarlais,Republican,House,Tennessee,H0TN04195,4,true,Won General,false,2024,2025,2027
+Pat Fallon,Republican,House,Texas,H0TX04219,4,true,Won General,false,2024,2025,2027
+Burgess Owens,Republican,House,Utah,H0UT04076,4,true,Won General,false,2024,2025,2027
+Dan Newhouse,Republican,House,Washington,H4WA04104,4,true,Won General,false,2024,2025,2027
+Jerrod Sessler,Republican,House,Washington,H2WA04165,4,false,Lost General,false,2024,2025,2027
+Scott Fitzgerald,Republican,House,Wisconsin,H0WI05113,5,true,Won General,false,2022,2023,2025
+Ralph Norman,Republican,House,South Carolina,H8SC05158,5,true,Won General,false,2022,2023,2025
+Doug Lamborn,Republican,House,Colorado,H6CO05159,5,true,Won General,false,2022,2023,2025
+Andy Biggs,Republican,House,Arizona,H6AZ05083,5,true,Won General,false,2022,2023,2025
+Virginia Foxx,Republican,House,North Carolina,H4NC05146,5,true,Won General,false,2022,2023,2025
+Bob Latta,Republican,House,Ohio,H8OH05036,5,true,Won General,false,2022,2023,2025
+Lance Gooden,Republican,House,Texas,H8TX05144,5,true,Won General,false,2022,2023,2025
+Bob Good,Republican,House,Virginia,H0VA05160,5,true,Won General,false,2022,2023,2025
+John Rutherford,Republican,House,Florida,H6FL04105,5,true,Won General,false,2022,2023,2025
+Stephanie Bice,Republican,House,Oklahoma,H0OK05205,5,true,Won General,false,2022,2023,2025
+Tom McClintock,Republican,House,California,H8CA04152,5,true,Won General,false,2022,2023,2025
+Harold Rogers,Republican,House,Kentucky,H0KY05015,5,true,Won General,false,2022,2023,2025
+Tim Walberg,Republican,House,Michigan,H4MI07103,5,true,Won General,false,2022,2023,2025
+Dale Strong,Republican,House,Alabama,H2AL05102,5,false,Won General,false,2022,2023,2025
+Cathy Rodgers,Republican,House,Washington,H4WA05077,5,true,Won General,false,2022,2023,2025
+Andy Ogles,Republican,House,Tennessee,H2TN05446,5,false,Won General,false,2022,2023,2025
+Andy Biggs,Republican,House,Arizona,H6AZ05083,5,true,Won General,false,2024,2025,2027
+Dale Strong,Republican,House,Alabama,H2AL05102,5,true,Won General,false,2024,2025,2027
+Tom McClintock,Republican,House,California,H8CA04152,5,true,Won General,false,2024,2025,2027
+John Rutherford,Republican,House,Florida,H6FL04105,5,true,Won General,false,2024,2025,2027
+Harold Rogers,Republican,House,Kentucky,H0KY05015,5,true,Won General,false,2024,2025,2027
+Tim Walberg,Republican,House,Michigan,H4MI07103,5,true,Won General,false,2024,2025,2027
+Bob Latta,Republican,House,Ohio,H8OH05036,5,true,Won General,false,2024,2025,2027
+Virginia Foxx,Republican,House,North Carolina,H4NC05146,5,true,Won General,false,2024,2025,2027
+Stephanie Bice,Republican,House,Oklahoma,H0OK05205,5,true,Won General,false,2024,2025,2027
+Andy Ogles,Republican,House,Tennessee,H2TN05446,5,true,Won General,false,2024,2025,2027
+Ralph Norman,Republican,House,South Carolina,H8SC05158,5,true,Won General,false,2024,2025,2027
+Lance Gooden,Republican,House,Texas,H8TX05144,5,true,Won General,false,2024,2025,2027
+Cathy Rodgers,Republican,House,Washington,H4WA05077,5,true,Dropped Out,false,2024,2025,2027
+Scott Fitzgerald,Republican,House,Wisconsin,H0WI05113,5,true,Won General,false,2024,2025,2027
+Ben Cline,Republican,House,Virginia,H8VA06104,6,true,Won General,false,2022,2023,2025
+Tom Emmer,Republican,House,Minnesota,H4MN06087,6,true,Won General,false,2022,2023,2025
+Greg Pence,Republican,House,Indiana,H8IN06129,6,true,Won General,false,2022,2023,2025
+Sam Graves,Republican,House,Missouri,H0MO06073,6,true,Won General,false,2022,2023,2025
+Garret Graves,Republican,House,Louisiana,H4LA06153,6,true,Won General,false,2022,2023,2025
+Bill Johnson,Republican,House,Ohio,H0OH06189,6,true,Won General,false,2022,2023,2025
+Michael Waltz,Republican,House,Florida,H8FL06148,6,true,Won General,false,2022,2023,2025
+John Rose,Republican,House,Tennessee,H8TN06094,6,true,Won General,false,2022,2023,2025
+Gary Palmer,Republican,House,Alabama,H4AL06098,6,true,Won General,false,2022,2023,2025
+Rich McCormick,Republican,House,Georgia,H0GA07273,6,true,Won General,false,2022,2023,2025
+Gary Palmer,Republican,House,Alabama,H4AL06098,6,true,Won General,false,2024,2025,2027
+Michael Waltz,Republican,House,Florida,H8FL06148,6,true,Won General,false,2024,2025,2025
+Rich McCormick,Republican,House,Georgia,H0GA07273,7,true,Won General,false,2024,2025,2027
+Garret Graves,Republican,House,Louisiana,H4LA06153,6,true,Lost General,false,2024,2025,2027
+Sam Graves,Republican,House,Missouri,H0MO06073,6,true,Won General,false,2024,2025,2027
+Tom Emmer,Republican,House,Minnesota,H4MN06087,6,true,Won General,false,2024,2025,2027
+John Rose,Republican,House,Tennessee,H8TN06094,6,true,Won General,false,2024,2025,2027
+Ben Cline,Republican,House,Virginia,H8VA06104,6,true,Won General,false,2024,2025,2027
+Neil Parrott,Republican,House,Maryland,H0MD06231,6,false,Lost General,false,2024,2025,2027
+Thomas Tiffany,Republican,House,Wisconsin,H0WI07101,7,true,Won General,false,2022,2023,2025
+Mark Green,Republican,House,Tennessee,H8TN07076,7,true,Won General,false,2022,2023,2025
+Michelle Fischbach,Republican,House,Minnesota,H0MN07091,7,true,Won General,false,2022,2023,2025
+David Rouzer,Republican,House,North Carolina,H2NC07096,7,true,Won General,false,2022,2023,2025
+Eric Burlison,Republican,House,Missouri,H2MO07143,7,false,Won General,false,2022,2023,2025
+Russell Fry,Republican,House,South Carolina,H2SC07280,7,true,Won General,false,2022,2023,2025
+Cory Mills,Republican,House,Florida,H2FL07156,7,false,Won General,false,2022,2023,2025
+Cory Mills,Republican,House,Florida,H2FL07156,7,true,Won General,false,2024,2025,2027
+Chad Koppie,Republican,House,Illinois,H2IL08203,7,false,Lost General,false,2024,2025,2027
+Scott Collier,Republican,House,Maryland,H0MD02255,7,false,Lost General,false,2024,2025,2027
+Eric Burlison,Republican,House,Missouri,H2MO07143,7,true,Won General,false,2024,2025,2027
+Michelle Fischbach,Republican,House,Minnesota,H0MN07091,7,true,Won General,false,2024,2025,2027
+Tom Barrett,Republican,House,Michigan,H2MI07123,7,false,Won General,false,2024,2025,2027
+David Rouzer,Republican,House,North Carolina,H2NC07096,7,true,Won General,false,2024,2025,2027
+Russell Fry,Republican,House,South Carolina,H2SC07280,7,true,Won General,false,2024,2025,2027
+Mark Green,Republican,House,Tennessee,H8TN07076,7,true,Won General,false,2024,2025,2027
+Thomas Tiffany,Republican,House,Wisconsin,H0WI07101,7,true,Won General,false,2024,2025,2027
+Austin Scott,Republican,House,Georgia,H0GA08099,8,true,Won General,false,2022,2023,2025
+Debbie Lesko,Republican,House,Arizona,H8AZ08158,8,true,Won General,false,2022,2023,2025
+David Kustoff,Republican,House,Tennessee,H2TN07103,8,true,Won General,false,2022,2023,2025
+Warren Davidson,Republican,House,Ohio,H6OH08315,8,true,Won General,false,2022,2023,2025
+Jason Smith,Republican,House,Missouri,H4MO08162,8,true,Won General,false,2022,2023,2025
+Dan Bishop,Republican,House,North Carolina,H0NC09187,8,true,Won General,false,2022,2023,2025
+Pete Stauber,Republican,House,Minnesota,H8MN08043,8,true,Won General,false,2022,2023,2025
+Bill Posey,Republican,House,Florida,H8FL15107,8,true,Won General,false,2022,2023,2025
+Abraham Hamadeh,Republican,House,Arizona,H4AZ08108,8,false,Won General,false,2024,2025,2027
+Bill Posey,Republican,House,Florida,H8FL15107,8,true,Dropped Out,false,2024,2025,2027
+Austin Scott,Republican,House,Georgia,H0GA08099,8,true,Won General,false,2024,2025,2027
+Cheryl Riley,Republican,House,Maryland,H4MD08213,8,false,Lost General,false,2024,2025,2027
+Jason Smith,Republican,House,Missouri,H4MO08162,8,true,Won General,false,2024,2025,2027
+Pete Stauber,Republican,House,Minnesota,H8MN08043,8,true,Won General,false,2024,2025,2027
+Warren Davidson,Republican,House,Ohio,H6OH08315,8,true,Won General,false,2024,2025,2027
+David Kustoff,Republican,House,Tennessee,H2TN07103,8,true,Won General,false,2024,2025,2027
+Richard Hudson,Republican,House,North Carolina,H2NC08185,9,true,Won General,false,2022,2023,2025
+Morgan Griffith,Republican,House,Virginia,H0VA09055,9,true,Won General,false,2022,2023,2025
+Paul Gosar,Republican,House,Arizona,H0AZ01259,9,true,Won General,false,2022,2023,2025
+Andrew Clyde,Republican,House,Georgia,H0GA09246,9,true,Won General,false,2022,2023,2025
+Lisa McClain,Republican,House,Michigan,H0MI10287,9,true,Won General,false,2022,2023,2025
+Daniel Meuser,Republican,House,Pennsylvania,H8PA10147,9,true,Won General,false,2022,2023,2025
+Paul Gosar,Republican,House,Arizona,H0AZ01259,9,true,Won General,false,2024,2025,2027
+Andrew Clyde,Republican,House,Georgia,H0GA09246,9,true,Won General,false,2024,2025,2027
+Lisa McClain,Republican,House,Michigan,H0MI10287,9,true,Won General,false,2024,2025,2027
+Richard Hudson,Republican,House,North Carolina,H2NC08185,9,true,Won General,false,2024,2025,2027
+Daniel Meuser,Republican,House,Pennsylvania,H8PA10147,9,true,Won General,false,2024,2025,2027
+Charlotte Bergmann,Republican,House,Tennessee,H0TN09061,9,false,Lost General,false,2024,2025,2027
+Morgan Griffith,Republican,House,Virginia,H0VA09055,9,true,Won General,false,2024,2025,2027
+Scott Perry,Republican,House,Pennsylvania,H2PA04135,10,true,Won General,false,2022,2023,2025
+Mike Collins,Republican,House,Georgia,H2GA03070,10,true,Won General,false,2022,2023,2025
+Mike Collins,Republican,House,Georgia,H2GA03070,10,true,Won General,false,2024,2025,2027
+Scott Perry,Republican,House,Pennsylvania,H2PA04135,10,true,Won General,false,2024,2025,2027
+Nicole Malliotakis,Republican,House,New York,H0NY11078,11,true,Won General,false,2022,2023,2025
+August Pfluger,Republican,House,Texas,H0TX11230,11,true,Won General,false,2022,2023,2025
+Lloyd Smucker,Republican,House,Pennsylvania,H6PA16320,11,true,Won General,false,2022,2023,2025
+Barry Loudermilk,Republican,House,Georgia,H4GA11061,11,true,Won General,false,2022,2023,2025
+Daniel Webster,Republican,House,Florida,H0FL08208,11,true,Won General,false,2022,2023,2025
+Daniel Webster,Republican,House,Florida,H0FL08208,11,true,Won General,false,2024,2025,2027
+Barry Loudermilk,Republican,House,Georgia,H4GA11061,11,true,Won General,false,2024,2025,2027
+Joseph Belnome,Republican,House,New Jersey,H4NJ11141,11,false,Lost General,false,2024,2025,2027
+Nicole Malliotakis,Republican,House,New York,H0NY11078,11,true,Won General,false,2024,2025,2027
+Lloyd Smucker,Republican,House,Pennsylvania,H6PA16320,11,true,Won General,false,2024,2025,2027
+August Pfluger,Republican,House,Texas,H0TX11230,11,true,Won General,false,2024,2025,2027
+Mike Bost,Republican,House,Illinois,H4IL12060,12,true,Won General,false,2022,2023,2025
+Rick Allen,Republican,House,Georgia,H0GA02241,12,true,Won General,false,2022,2023,2025
+Gus Bilirakis,Republican,House,Florida,H6FL09070,12,true,Won General,false,2022,2023,2025
+Gus Bilirakis,Republican,House,Florida,H6FL09070,12,true,Won General,false,2024,2025,2027
+Rick Allen,Republican,House,Georgia,H0GA02241,12,true,Won General,false,2024,2025,2027
+Mike Bost,Republican,House,Illinois,H4IL12060,12,true,Won General,false,2024,2025,2027
+James Hooper,Republican,House,Michigan,H2MI12198,12,false,Lost General,false,2024,2025,2027
+Darius Mayfield,Republican,House,New Jersey,H2NJ12127,12,false,Lost General,false,2024,2025,2027
+John Joyce,Republican,House,Pennsylvania,H8PA13125,13,true,Won General,false,2022,2023,2025
+Ronny Jackson,Republican,House,Texas,H0TX13228,13,true,Won General,false,2022,2023,2025
+Anna Paulina Luna,Republican,House,Florida,H0FL13158,13,false,Won General,false,2022,2023,2025
+Anna Paulina Luna,Republican,House,Florida,H0FL13158,13,true,Won General,false,2024,2025,2027
+Joshua Loyd,Republican,House,Illinois,H4IL13241,13,false,Lost General,false,2024,2025,2027
+John Joyce,Republican,House,Pennsylvania,H8PA13125,13,true,Won General,false,2024,2025,2027
+Ronny Jackson,Republican,House,Texas,H0TX13228,13,true,Won General,false,2024,2025,2027
+Randy Weber,Republican,House,Texas,H2TX14149,14,true,Won General,false,2022,2023,2025
+Guy Reschenthaler,Republican,House,Pennsylvania,H8PA18199,14,true,Won General,false,2022,2023,2025
+Marjorie Taylor Greene,Republican,House,Georgia,H0GA06192,14,true,Won General,false,2022,2023,2025
+Marjorie Taylor Greene,Republican,House,Georgia,H0GA06192,14,true,Won General,false,2024,2025,2027
+Tina Forte,Republican,House,New York,H2NY14128,14,false,Lost General,false,2024,2025,2027
+Guy Reschenthaler,Republican,House,Pennsylvania,H8PA18199,14,true,Won General,false,2024,2025,2027
+Randy Weber,Republican,House,Texas,H2TX14149,14,true,Won General,false,2024,2025,2027
+Glenn Thompson,Republican,House,Pennsylvania,H8PA05071,15,true,Won General,false,2022,2023,2025
+Mary Miller,Republican,House,Illinois,H0IL15129,15,true,Won General,false,2022,2023,2025
+Mary Miller,Republican,House,Illinois,H0IL15129,15,true,Won General,false,2024,2025,2027
+Glenn Thompson,Republican,House,Pennsylvania,H8PA05071,15,true,Won General,false,2024,2025,2027
+Mike Kelly,Republican,House,Pennsylvania,H4PA03117,16,true,Won General,false,2022,2023,2025
+Darin LaHood,Republican,House,Illinois,H6IL18088,16,true,Won General,false,2022,2023,2025
+Darin LaHood,Republican,House,Illinois,H6IL18088,16,true,Won General,false,2024,2025,2027
+Mike Kelly,Republican,House,Pennsylvania,H4PA03117,16,true,Won General,false,2024,2025,2027
+Irene Armendariz-Jackson,Republican,House,Texas,H0TX16106,16,false,Lost General,false,2024,2025,2027
+Pete Sessions,Republican,House,Texas,H2TX03126,17,true,Won General,false,2022,2023,2025
+Gregory Steube,Republican,House,Florida,H8FL17053,17,true,Won General,false,2022,2023,2025
+Gregory Steube,Republican,House,Florida,H8FL17053,17,true,Won General,false,2024,2025,2027
+Pete Sessions,Republican,House,Texas,H2TX03126,17,true,Won General,false,2024,2025,2027
+Scott Franklin,Republican,House,Florida,H0FL15104,18,true,Won General,false,2022,2023,2025
+Scott Franklin,Republican,House,Florida,H0FL15104,18,true,Won General,false,2024,2025,2027
+Jodey Arrington,Republican,House,Texas,H6TX19099,19,true,Won General,false,2022,2023,2025
+Byron Donalds,Republican,House,Florida,H2FL14186,19,true,Won General,false,2022,2023,2025
+Byron Donalds,Republican,House,Florida,H2FL14186,19,true,Won General,false,2024,2025,2027
+Jodey Arrington,Republican,House,Texas,H6TX19099,19,true,Won General,false,2024,2025,2027
+Kevin McCarthy,Republican,House,California,H6CA22125,20,true,Won General,false,2022,2023,2023
+Mike Boudreaux,Republican,House,California,H4CA20199,20,false,Dropped Out,false,2024,2025,2027
+William Hayward,Independent,House,Texas,H0TX35049,20,false,Dropped Out,false,2024,2025,2027
+Brian Mast,Republican,House,Florida,H6FL18097,21,true,Won General,false,2022,2023,2025
+Elise Stefanik,Republican,House,New York,H4NY21079,21,true,Won General,false,2022,2023,2025
+Brian Mast,Republican,House,Florida,H6FL18097,21,true,Won General,false,2024,2025,2027
+Elise Stefanik,Republican,House,New York,H4NY21079,21,true,Won General,false,2024,2025,2027
+Troy Nehls,Republican,House,Texas,H0TX22302,22,true,Won General,false,2022,2023,2025
+Troy Nehls,Republican,House,Texas,H0TX22302,22,true,Won General,false,2024,2025,2027
+Jay Obernolte,Republican,House,California,H0CA08135,23,true,Won General,false,2022,2023,2025
+Nicholas Langworthy,Republican,House,New York,H2NY23228,23,false,Won General,false,2022,2023,2025
+Jay Obernolte,Republican,House,California,H0CA08135,23,true,Won General,false,2024,2025,2027
+Nicholas Langworthy,Republican,House,New York,H2NY23228,23,true,Won General,false,2024,2025,2027
+Beth Van Duyne,Republican,House,Texas,H0TX24209,24,true,Won General,false,2022,2023,2025
+Thomas Cole,Republican,House,California,H4CA24191,24,false,Lost General,false,2024,2025,2027
+Beth Van Duyne,Republican,House,Texas,H0TX24209,24,true,Won General,false,2024,2025,2027
+Roger Williams,Republican,House,Texas,H2TX33040,25,true,Won General,false,2022,2023,2025
+Roger Williams,Republican,House,Texas,H2TX33040,25,true,Won General,false,2024,2025,2027
+Michael Burgess,Republican,House,Texas,H2TX26093,26,true,Won General,false,2022,2023,2025
+Mario Diaz-Balart,Republican,House,Florida,H2FL25018,26,true,Won General,false,2022,2023,2025
+Mario Diaz-Balart,Republican,House,Florida,H2FL25018,26,true,Won General,false,2024,2025,2027
+Brandon Gill,Republican,House,Texas,H4TX26149,26,false,Won General,false,2024,2025,2027
+Michael Cloud,Republican,House,Texas,H8TX27049,27,true,Won General,false,2022,2023,2025
+Mike Garcia,Republican,House,California,H0CA25105,27,true,Won General,false,2022,2023,2025
+Maria Salazar,Republican,House,Florida,H8FL27185,27,true,Won General,false,2022,2023,2025
+Mike Garcia,Republican,House,California,H0CA25105,27,true,Lost General,false,2024,2025,2027
+Maria Salazar,Republican,House,Florida,H8FL27185,27,true,Won General,false,2024,2025,2027
+Michael Cloud,Republican,House,Texas,H8TX27049,27,true,Won General,false,2024,2025,2027
+Carlos Gimenez,Republican,House,Florida,H0FL26036,28,true,Won General,false,2022,2023,2025
+Carlos Gimenez,Republican,House,Florida,H0FL26036,28,true,Won General,false,2024,2025,2027
+John Carter,Republican,House,Texas,H2TX31044,31,true,Won General,false,2022,2023,2025
+John Carter,Republican,House,Texas,H2TX31044,31,true,Won General,false,2024,2025,2027
+Mike Cargile,Republican,House,California,H0CA35146,35,false,Lost General,false,2024,2025,2027
+Brian Babin,Republican,House,Texas,H6TX02079,36,true,Won General,false,2022,2023,2025
+Melissa Toomim,Republican,House,California,H2CA00146,36,false,Lost General,false,2024,2025,2027
+Brian Babin,Republican,House,Texas,H6TX02079,36,true,Won General,false,2024,2025,2027
+Ken Calvert,Republican,House,California,H2CA37023,41,true,Won General,false,2022,2023,2025
+Ken Calvert,Republican,House,California,H2CA37023,41,true,Won General,false,2024,2025,2027
+John Briscoe,Republican,House,California,H8CA47078,42,false,Lost General,false,2024,2025,2027
+Darrell Issa,Republican,House,California,H0CA48024,48,true,Won General,false,2022,2023,2025
+Darrell Issa,Republican,House,California,H0CA48024,48,true,Won General,false,2024,2025,2027
+John McGuire,Republican,House,Virginia,H4VA05071,5,false,Won General,false,2024,2025,2027
+Derek Schmidt,Republican,House,Kansas,H4KS02164,2,false,Won General,false,2024,2025,2027
+Xan John,Republican,House,Louisiana,H4LA03127,3,false,Lost General,false,2024,2025,2027
+Elbert Guillory,Republican,House,Louisiana,H6LA04112,6,false,Lost General,false,2024,2025,2027
+Lily Tang Williams,Republican,House,New Hampshire,H2NH02260,2,false,Lost General,false,2024,2025,2027
+Greg Lopez,Republican,House,Colorado,H4CO04348,4,false,Won General,false,2024,2024,2025
+Jeff Zink,Republican,House,Arizona,H2AZ07187,3,false,Lost General,false,2022,2023,2025
+Kelly Cooper,Republican,House,Arizona,H2AZ09191,4,false,Lost General,false,2022,2023,2025
+Mike Cargile,Republican,House,California,H0CA35146,35,false,Lost General,false,2022,2023,2025
+John Briscoe,Republican,House,California,H8CA47078,42,false,Lost General,false,2022,2023,2025
+Geoff Young,Democrat,House,Kentucky,H4KY06163,6,false,Lost General,false,2022,2023,2025
+Neil Parrott,Republican,House,Maryland,H0MD06231,6,false,Lost General,false,2022,2023,2025
+Scott Collier,Republican,House,Maryland,H0MD02255,7,false,Lost General,false,2022,2023,2025
+Tom Barrett,Republican,House,Michigan,C00793976,7,false,Lost General,false,2022,2023,2025
+Darius Mayfield,Republican,House,New Jersey,H2NJ12127,12,false,Lost General,false,2022,2023,2025
+Joe Kent,Republican,House,Washington,H2WA03100,3,false,Lost General,false,2022,2023,2025
+Irene Armendariz-Jackson,Republican,House,Texas,H0TX16106,16,false,Lost General,false,2022,2023,2025
+Charlotte Bergmann,Republican,House,Tennessee,H0TN09061,9,false,Lost General,false,2022,2023,2025
+Aaron Bashir,Republican,House,Pennsylvania,H4PA02069,2,false,Lost General,false,2022,2023,2025
+Joanna Harbour,Republican,House,Oregon,H0OR03174,3,false,Lost General,false,2022,2023,2025
+Yvette Herrell,Republican,House,New Mexico,H8NM02156,2,false,Lost General,false,2022,2023,2025
+Tina Forte,Republican,House,New York,H2NY14128,14,false,Lost General,false,2022,2023,2025
+Ashley Moody,Republican,Senate,Florida,,,false,Appointed,false,2025,2025,2027
